@@ -1,0 +1,98 @@
+{
+    "@context": "http://schema.org",
+    "@graph": [
+        {
+            "url": "https://spectrum.library.concordia.ca/20/",
+            "creator": [
+                {
+                    "name": "Elizabeth Mulley",
+                    "@type": "Person",
+                    "givenName": "Elizabeth",
+                    "familyName": "Mulley"
+                }
+            ],
+            "description": "Lucius R. O'Brien was a well-known Canadian landscape painter in the second half of the nineteenth century. Active in the promotion of art in Ontario, he served as vice-president of the Ontario Society of Artists from 1874 until 1880, at which time, in recognition of his leading role in Canadian art, he was appointed as first president of the Royal Canadian Academy.  O'Brien produced poetic, reserved scenes of nature that attest to his own upper-class Victorian background and the consequent firm belief in the rightness of Canada's position within the Commonwealth. Dependent on the British cultural presence, O'Brien nevertheless was substantially affected by contemporary American art. The Hudson River and luminist paintings provided the stylistic models, and the American vision of the land as a metaphor for new world strength and purity suited his own patriotic concerns.  Victorian culture shaped O'Brien's response to the world, and American art provided a meaningful stylistic source. This thesis will examine the ways in which these major influences affected O'Brien's interpretation of the Canadian landscape",
+            "@type": "Thesis",
+            "distribution": [
+                {
+                    "license": "https://spectrum.library.concordia.ca/policies.html#TermsOfAccess Spectrum Terms of Access",
+                    "@type": "DataDownload",
+                    "encodingFormat": "application/pdf",
+                    "contentUrl": "https://spectrum.library.concordia.ca/20/1/MM64703.pdf"
+                }
+            ],
+            "@context": "http://schema.org/",
+            "datePublished": "1990",
+            "license": [
+                {
+                    "@type": "CreativeWork",
+                    "name": "Spectrum Terms of Access",
+                    "url": "https://spectrum.library.concordia.ca/policies.html#TermsOfAccess"
+                }
+            ],
+            "name": "Lucius R. O'Brien : a Victorian in North America : American influence on his early work, 1873-1880"
+        },
+        {
+            "datePublished": "1988",
+            "license": [
+                {
+                    "url": "https://spectrum.library.concordia.ca/policies.html#TermsOfAccess",
+                    "@type": "CreativeWork",
+                    "name": "Spectrum Terms of Access"
+                }
+            ],
+            "name": "Antoine-Sébastien Falardeau (1822-1889) and the old master copy in the nineteenth century",
+            "url": "https://spectrum.library.concordia.ca/21/",
+            "creator": [
+                {
+                    "name": "Virginia Nixon",
+                    "@type": "Person",
+                    "givenName": "Virginia",
+                    "familyName": "Nixon"
+                }
+            ],
+            "description": "This thesis examines the career of the Quebec-born Old Master copyist Antoine-Sebastien Falardeau (1822-1889), and the conceptual and physical milieu in which he worked.  Chapter one corrects and amplifies the biography of the artist. Chapter two proposes a framework within which to set the changes that occurred in the concept(s) and functions of the copy as a traditional way of understanding gave way to the modern. The earlier copy was an accepted part of a system of artistic production in which the work of art was seen as essentially reproducible. With the advent of the Romantic/modern conviction that the art work was the personal, spontaneous production of a specific individual, the copy lost status and its position shifted from the mainstream to the periphery of art production. The nineteenth-century-souvenir copy and the use of copies in the new museums founded to provide a morally-oriented public education are discussed, as is the situation of the copy in Quebec where earlier concepts and functions survived. In Chapter Three the structures and regulations that governed the production of copies in Florence are described. An appendix lists the works produced by Falardeau",
+            "@type": "Thesis",
+            "distribution": [
+                {
+                    "encodingFormat": "application/pdf",
+                    "@type": "DataDownload",
+                    "license": "https://spectrum.library.concordia.ca/policies.html#TermsOfAccess Spectrum Terms of Access",
+                    "contentUrl": "https://spectrum.library.concordia.ca/21/1/MM59146.pdf"
+                }
+            ],
+            "@context": "http://schema.org/"
+        },
+        {
+            "description": "This paper is a study of the artistic philosophy of J. W. G. (Jock) Macdonald (1897-1960). It examines the implications of his initial break with representational art and his development of an abstract imagery between 1934 and 1941 in the context of the ideological tradition from which he emerged and the immediate cultural situation in which he worked. His personal writings are discussed and the iconographic content of his work is analyzed in relation to the evolution of his abstract style.  The roots of Macdonald's vision are located in the Romantic tradition, which assumes that the laws of nature and of art are the same and which inspired his use of the organic analogy. Macdonald's concept of nature is discussed in relation to the influence of significant scientific discoveries. A close study of his oeuvre reveals that his pictorial vocabulary of archetypal forms corresponds to a tradition of morphological research in biology and that his treatment of pictorial space was informed by scientific theories and by speculation about the \"fourth dimension.\" Macdonald found in Theosophy and Anthroposophy a means to reconcile his fascination with science with his innately mystical apprehension of nature. Contradictory as they may appear, science and occultism formed the matrix of his semi-abstract and abstract art by suggesting ways to visualize nature's hidden energies",
+            "creator": [
+                {
+                    "givenName": "Allison J",
+                    "familyName": "Colborne",
+                    "name": "Allison J Colborne",
+                    "@type": "Person"
+                }
+            ],
+            "@context": "http://schema.org/",
+            "@type": "Thesis",
+            "distribution": [
+                {
+                    "encodingFormat": "application/pdf",
+                    "license": "https://spectrum.library.concordia.ca/policies.html#TermsOfAccess Spectrum Terms of Access",
+                    "@type": "DataDownload",
+                    "contentUrl": "https://spectrum.library.concordia.ca/36/1/MM80977.pdf"
+                }
+            ],
+            "url": "https://spectrum.library.concordia.ca/36/",
+            "name": "Jock Macdonald : the search for the universal truth in nature",
+            "license": [
+                {
+                    "name": "Spectrum Terms of Access",
+                    "@type": "CreativeWork",
+                    "url": "https://spectrum.library.concordia.ca/policies.html#TermsOfAccess"
+                }
+            ],
+            "datePublished": "1992"
+        }
+    ]
+}
