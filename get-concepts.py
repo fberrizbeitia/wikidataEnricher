@@ -82,6 +82,6 @@ with open(path,'r',encoding='utf-8') as jsonfile:
   jsonld["graph"] = result
 
   with open(target, "w") as data_file:
-    json.dump(jsonld, data_file, indent=4)
+    json.dump(jsonld, data_file, ensure_ascii=False)
 
 
